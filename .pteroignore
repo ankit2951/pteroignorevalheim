@@ -10,6 +10,7 @@ steam_appid.txt
 steamclient.so
 UnityPlayer_s.debug
 UnityPlayer.so
+server_exit.drp
 Valheim\ Dedicated\ Server\ Manual.pdf
 valheim_server.x86_64
 .steam/
