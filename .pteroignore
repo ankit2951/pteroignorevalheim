@@ -1,0 +1,16 @@
+linux64/
+Steam/
+steamapps/
+steamcmd/
+valheim_server_Data/
+LinuxPlayer_s.debug
+start_server_xterm.sh
+start_server.sh
+steam_appid.txt
+steamclient.so
+UnityPlayer_s.debug
+UnityPlayer.so
+Valheim\ Dedicated\ Server\ Manual.pdf
+valheim_server.x86_64
+.steam/
+.pteroignore
